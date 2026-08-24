@@ -1,8 +1,10 @@
------ H E L P -----
+-------- H E L P --------
 * Sommerzeit on/off
 * Demozeit on/off
 * Demojahr on/off
 * BigBen 1-4
+	1=Bigben London
+	2=Kuckuck
 * Spitzname
     MP3,nr
     IMAGE,nr
