@@ -1,4 +1,8 @@
 ----- H E L P -----
+* Sommerzeit on/off
+* Demozeit on/off
+* Demojahr on/off
+* BigBen 1-4
 * Spitzname
     MP3,nr
     IMAGE,nr
