@@ -1,1 +1,5 @@
 ----- H E L P -----
+* Spitzname
+    MP3,nr
+    IMAGE,nr
+
